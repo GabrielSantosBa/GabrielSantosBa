@@ -3,7 +3,7 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=gabrielsantosba&label=Profile%20views&color=0e75b6&style=flat" alt = "gabrielsantosba" /> </p>
 
-<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=gabrielsantosba "alt =" gabrielsantosba "/> < / a> </p>
+<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=gabrielsantosba "alt =" Gabriels Santos"/> < / a> </p>
 
 
 - 🌱 Atualmente estou aprendendo ** Especificação Java EE, Spring Framework, AngularJs e Inglês **
@@ -23,8 +23,8 @@
 <h3 align = "left"> Me Encontre nas redes: </h3>
 <p align = "left">
 <a href="https://linkedin.com/in/gabriel santos" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@ 3.0.1 / icons / linkedin.svg "alt =" gabriel santos "height =" 30 "width =" 40 "/> </a>
-<a href =" https://fb.com/jhonheberte.heberte "target = "em branco"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt = "gabriel santos" height = "30 "width =" 40 "/> </a>
-<a href="/https://twitter.com/Gabriel11780553/" target="blank"> <img align =" center "src =" https : //cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg "alt =" twitter "height =" 30 "width =" 40 "/> </a>
+<a href ="https://www.facebook.com/GabrielSantosWebDeveloper"target = "blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt = "Facebook" height = "30 "width =" 40 "/> </a>
+<a href="/https://twitter.com/Gabriel11780553/" target="blank"> <img align =" center "src =" https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonmonstr.com%2Ftwitter-1-svg%2F&psig=AOvVaw1ht9FnHpc2w-0rDa5fz6OJ&ust=1611570546843000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCq-KOutO4CFQAAAAAdAAAAABAD "alt =" Twitter "height =" 30 "width =" 40 "/> </a>
 </p>
 
 <h3 align =" left "> Linguagens que uso: </h3>
@@ -33,3 +33,4 @@
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsantosba&show_icons=true&locale=en&layout=compact" alt = "gabrielsantosba" /> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=gabrielsantosba&" alt = "gabrielsantosba" /> </p>
+
