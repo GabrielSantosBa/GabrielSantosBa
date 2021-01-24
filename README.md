@@ -4,7 +4,7 @@
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=gabrielsantosba&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Santos" /> </p>
 
 
-<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=gabrielsantosba "alt =" Gabriels Santos"/>
+<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <https://scontent.fval1-1.fna.fbcdn.net/v/t1.0-9/121458086_2169036856573187_1114973942487733685_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=N_3gYAy2Mn4AX_ueX64&_nc_ht=scontent.fval1-1.fna&oh=c6eda0a1110eb501f030f6e6f24743e5&oe=60325D87"alt =" Gabriel Santos"/>
 </a> 
 </p>
  
@@ -39,3 +39,4 @@
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsantosba&show_icons=true&locale=en&layout=compact" alt = "gabrielsantosba" /> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=gabrielsantosba&" alt = "gabrielsantosba" /> </p>
+
