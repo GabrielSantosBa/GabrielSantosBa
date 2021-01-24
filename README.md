@@ -3,7 +3,11 @@
 
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=gabrielsantosba&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Santos" /> </p>
 
-<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=gabrielsantosba "alt =" Gabriels Santos"/> < / a> </p>
+
+<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=gabrielsantosba "alt =" Gabriels Santos"/>
+</a> 
+</p>
+ 
 
 
 - 🌱 Atualmente estou aprendendo ** Especificação Java EE, Spring Framework, AngularJs e Inglês **
@@ -21,6 +25,7 @@
 
 
 <h3 align = "left"> Me Encontre nas redes: </h3>
+
 <p align = "left">
 <a href="https://linkedin.com/in/gabriel-santosba" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@ 3.0.1 / icons / linkedin.svg "alt =" gabriel santos "height =" 30 "width =" 40 "/> </a>
 <a href ="https://www.facebook.com/GabrielSantosWebDeveloper"target = "blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt = "Facebook" height = "30 "width =" 40 "/> 
