@@ -1,10 +1,9 @@
 <h1 align = "center"> Olá 👋, sou Gabriel Santos </h1>
 <h3 align = "center"> Um Desenvolvedor Java iniciante é Apaixonado ... </h3>
 
-<p align = "left"> <img src="https://drive.google.com/file/d/1SvLn61jZyGQx_a1IiolgpphTcn9ZlZ9E/view?usp=sharing" alt="Gabriel Santos" /> </p>
 
 
-<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src="https://drive.google.com/file/d/1SvLn61jZyGQx_a1IiolgpphTcn9ZlZ9E/view?usp=sharing"alt =" Gabriel Santos"width = "20%" height = "25%"/>
+<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src="https://scontent.fval1-1.fna.fbcdn.net/v/t1.0-9/121297900_2169038846572988_3341722535787817616_n.jpg?_nc_cat=109&ccb=2&_nc_sid=5b7eaf&_nc_eui2=AeFkxYnJ-nqH9PMF14Wi4e8SqhHpsBY6hzuqEemwFjqHOxlSWrTkHk_xmcx909h5RHWKeMnO932NuGQyfwTMR5K2&_nc_ohc=ukxKi9GtOUEAX8hxO7C&_nc_ht=scontent.fval1-1.fna&oh=b46e07c7acf7b658fb43b506545c0fb6&oe=603466ED"alt =" Gabriel Santos"width = "20%" height = "25%"/>
 </a> 
 </p>
  
