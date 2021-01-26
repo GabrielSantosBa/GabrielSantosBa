@@ -33,6 +33,8 @@
  </a> 
  <a href="/https://twitter.com/Gabriel11780553/" target="blank"> <img align ="center "src="https://www.seekpng.com/png/small/351-3516255_png-file-svg-twitter-icon-white-square.png" alt="Twitter "height="30" width="40"/> 
  </a> 
+  <a href ="https://www.facebook.com/GabrielSantosWebDeveloper"target = "blank"> <img align = "center" src = "https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" alt = "Facebook" height = "30"width ="40 /> 
+ </a> 
 </p>
  
 <h3 align =" left "> Linguagens que uso: </h3>
