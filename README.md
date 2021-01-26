@@ -33,7 +33,7 @@
  </a> 
  <a href="/https://twitter.com/Gabriel11780553/" target="blank"> <img align ="center "src="https://www.seekpng.com/png/small/351-3516255_png-file-svg-twitter-icon-white-square.png" alt="Twitter "height="30" width="40"/> 
  </a> 
-  <a href ="https://www.facebook.com/GabrielSantosWebDeveloper"target = "blank"> <img align = "center" src = "https://www.seekpng.com/png/small/351-3516255_png-file-svg-twitter-icon-white-square.png" alt = "Facebook" height = "30"width ="40 /> 
+  <a href ="https://twitter.com/Gabriel11780553/"target = "blank"> <img align = "center" src = "https://www.seekpng.com/png/small/351-3516255_png-file-svg-twitter-icon-white-square.png" alt = "Twitter" height = "30"width ="40 /> 
  </a> 
 </p>
  
