@@ -9,7 +9,7 @@
  
 
 
-- 🌱 Atualmente estou aprendendo ** Especificação Java EE, Spring Framework, AngularJs e Inglês **
+- 🌱 Atualmente estou aprendendo ** Especificação Java EE, Spring, AngularJs e Inglês **
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/GabrielSantosBa?tab=repositories](https://github.com/GabrielSantosBa?tab=repositories)
 
