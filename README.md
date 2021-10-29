@@ -13,7 +13,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/GabrielSantosBa?tab=repositories](https://github.com/GabrielSantosBa?tab=repositories)
 
-- 📝 Escrevo artigos regulares sobre Natureza [ https://nacaatinga.com.br/](https://nacaatinga.com.br/)
+- 📝 Escrevo artigos regulares sobre Natureza [NaCaatinga](https://nacaatinga.com.br/)
+
+- 📝 Passei a escrever artigos sobre techs aqui: [Dev.to](https://dev.to/gabrielsantosba)
 
 - 📫 Você pode me encontrar aqui **gab.arteinfo@gmail.com**
 
